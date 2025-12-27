@@ -4,7 +4,7 @@
 
 ## Front-end Developer
 
-Experienced Front-End Developer with 4+ years in commercial development, specializing in building high-performance, user-friendly interfaces. Skilled in modern technologies, scalability, and usability. Proven ability to deliver innovative solutions in Agile environments, collaborating with cross-functional teams to drive product success.
+Experienced Front-End Developer with 5+ years in commercial development, specializing in building high-performance, user-friendly interfaces. Skilled in modern technologies, scalability, and usability. Proven ability to deliver innovative solutions in Agile environments, collaborating with cross-functional teams to drive product success.
 
 ### **Technical Skills**
 
